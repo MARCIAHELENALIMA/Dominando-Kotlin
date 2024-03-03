@@ -1,30 +1,29 @@
-# Esquema-Conceitual-para-Banco-De-dados
+# Dominando o Kotlin: uma base sólida para iniciantes
+Este repositório é dedicado aos projetos práticos do curso "Dominando o Kotlin: uma base sólida para iniciantes". Aqui, você encontrará todos os projetos e atividades desenvolvidos ao longo do curso.
 
-Descrição do Desafio
-Agora você irá criar um esquema conceitual do zero. A partir da narrativa fornecida 
-você será capaz de criar todas as entidades, relacionamentos e atributos. Caso encontre 
-algo que não foi definido na narrativa, utilize a sua compreensão do contexto e deixe uma 
-descrição no README do seu github. para verificação.
+## O que aprendi neste curso
+- Conhecer a fundo os fundamentos do Kotlin
+- Desenvolver programas simples e de média complexidade usando as melhores práticas da linguagem Kotlin
+- Ter uma base sólida nos conceitos fundamentais da orientação a objetos e da programação funcional
+- Praticar os conceitos do Kotlin através de exercícios com resolução em vídeo
 
-O esquema deverá ser adicionado a um repositório do Github para futura avaliação do desafio 
-de projeto. Adicione ao Readme a descrição do projeto conceitual para fornecer o contexto
-sobre seu esquema.
+## Conteúdo do curso
+- 18 seções
+- 188 aulas
+- Duração total: 14h 26m
 
-Objetivo:
-Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida
+## Descrição do Curso
+Aprender Kotlin da maneira certa e com uma base sólida: é isto que este curso vai lhe proporcionar.
+Com uma metogologia baseada em um mix estratégico entre aulas teóricas, aulas práticas e exercícios em vídeo, você vai aprender tudo o que importa sobre os fundamentos do Kotlin, sem rodeios e sem enrolação. Você vai começar aprendendo os conceitos básicos do Kotlin, a sintaxe da linguagem, os tipos de dados e todas as estruturas de seleção e de repetição disponíveis. O Kotlin é famoso pela forma como trata os valores nulos. Portanto isso não poderia ficar de fora: temas como safe calls, elvis operator e smart casts serão ensinados em detalhes.
 
-Narrativa:
-Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica
-Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por 
-revisões  periódicas
-Cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem 
-executados e preenche uma OS com data de entrega.
-A partir da OS, calcula-se o valor de cada serviço, consultando-se uma tabela de referência 
-de mão-de-obra
-O valor de cada peça também irá compor a OSO cliente autoriza a execução dos serviços
-A mesma equipe avalia e executa os serviços
-Os mecânicos possuem código, nome, endereço e especialidade
-Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
-Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert e suba seu
-projeto para um repositório próprio, com isso, você aumentará ainda mais seu portfólio de 
-projetos no GitHub!
+Aprendendo na prática e de forma detalhada cada um dos seguintes temas:
+- Classes e Objetos
+- Encapsulamento
+- Herança
+- Polimorfismo
+- Funções
+- Expressões Lambda
+- Funções de Alta-Ordem (Higher-Order Functions)
+
+Aprenderá tudo sobre gerenciamento de exceções em Kotlin e também sobre como deixar o seu código organizado.
+Com tudo que é abordado no curso - que será ensinado passo a passo e de forma direta e detalhada - você vai ter toda a base sólida que precisa pra ter condições de alcançar voos mais altos no Kotlin.

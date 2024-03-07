@@ -1,6 +1,10 @@
 package firststeps
 
+import firststeps.exercicio1.VerificarNumero
+
 fun main(args: Array<String>) {
-    println("Hello World!")
-    println("Program arguments: ${args.joinToString()}")
+    val verificador = VerificarNumero()
+    verificador.verificarPositivoOuNegativo(5)
+
+    println("meu primeiro execicio!")
 }

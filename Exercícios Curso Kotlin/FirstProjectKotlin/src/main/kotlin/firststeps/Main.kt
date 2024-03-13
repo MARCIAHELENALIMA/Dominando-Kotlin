@@ -1,23 +1,33 @@
 package firststeps
 
-import firststeps.exercicio1.VerificarNumero
+import firststeps.exerciciosProgressivos.CalculadoraDeMacas
+import firststeps.exerciciosProgressivos.VerificarNumero
 
 class Main {
 
     fun testeVerificaNumero() {
         val verificarNumero = VerificarNumero()
-
         // Testando com um número positivo
         verificarNumero.verificarPositivoOuNegativo(5)
-
         // Testando com um número negativo
         verificarNumero.verificarPositivoOuNegativo(-3)
     }
-}
 
-fun main() {
-    val main = Main()
+    private fun testeCalculadoraDeMacas() {
+        print("Digite a quantidade de maçãs: ")
+        val quantidade = readln().toInt()
 
-    // Chama o método de teste
-    main.testeVerificaNumero()
+        val calculadora = CalculadoraDeMacas(quantidade)
+        val precoFinal = calculadora.getResultado()
+
+        println("Valor total a pagar: \$${precoFinal}")
+    }
+
+    fun teste() {
+        val teste = Main()
+
+        // Chama o método de teste
+        //teste.testeVerificaNumero()
+        teste.testeCalculadoraDeMacas()
+    }
 }

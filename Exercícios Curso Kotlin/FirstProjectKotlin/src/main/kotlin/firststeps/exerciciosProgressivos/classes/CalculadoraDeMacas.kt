@@ -1,4 +1,4 @@
-package firststeps.exerciciosProgressivos
+package firststeps.exerciciosProgressivos.classes
 
 class CalculadoraDeMacas(private val quantidade: Int) {
     private val precoNormal = 1.30

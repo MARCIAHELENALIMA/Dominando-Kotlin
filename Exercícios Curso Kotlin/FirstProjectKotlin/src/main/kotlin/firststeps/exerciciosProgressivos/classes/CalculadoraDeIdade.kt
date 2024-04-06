@@ -1,4 +1,4 @@
-package firststeps.exerciciosProgressivos
+package firststeps.exerciciosProgressivos.classes
 
 import java.time.LocalDate
 

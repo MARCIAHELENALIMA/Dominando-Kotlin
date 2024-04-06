@@ -1,4 +1,4 @@
-package firststeps.exerciciosProgressivos
+package firststeps.exerciciosProgressivos.classes
 
 class VerificarNumero {
     fun verificarPositivoOuNegativo(numero: Int) {

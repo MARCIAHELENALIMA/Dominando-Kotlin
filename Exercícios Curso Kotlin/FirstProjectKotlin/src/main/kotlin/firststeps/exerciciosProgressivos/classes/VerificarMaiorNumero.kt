@@ -14,7 +14,7 @@ temos a resposta para o problema.
 Finalmente, eu informo qual dos três números é o maior.
  */
 
-package firststeps.exerciciosProgressivos
+package firststeps.exerciciosProgressivos.classes
 
 class VerificarMaiorNumero {
 

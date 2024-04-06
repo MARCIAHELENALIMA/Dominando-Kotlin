@@ -16,7 +16,6 @@ Finalmente, eu informo qual dos três números é o maior.
 
 package firststeps.exerciciosProgressivos
 
-
 class VerificarMaiorNumero {
 
     fun encontrarMaiorNumero (numero1: Int, numero2: Int, numero3: Int): Int {

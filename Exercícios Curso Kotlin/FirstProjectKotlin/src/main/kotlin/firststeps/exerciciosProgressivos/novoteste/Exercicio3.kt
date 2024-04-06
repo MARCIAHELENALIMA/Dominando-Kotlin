@@ -13,11 +13,11 @@ import java.time.LocalDate
 fun main() {
     print("Qual seu ano de nascimento meu querido? ")
     val anoNascimentoLido = readln().toInt()
-    val idade = calculaIdadePessoa(anoNascimentoLido)//argumento é o valor que passa para o parametro anoNascimento da função
-    print("Você tem $idade seu coroa")
+    val idade = calculaIdadePessoa(anoNascimentoLido) // argumento é o valor que passa para o parametro anoNascimento da função
+    println("Você tem $idade seu coroa")
 }
 
-fun calculaIdadePessoa (anoNascimento: Int)= LocalDate.now().year - anoNascimento
+fun calculaIdadePessoa(anoNascimento: Int) = LocalDate.now().year - anoNascimento
 
 /*
 OPÇÕES DE USO DA FUNÇÃO CALCULAIDADE

@@ -1,21 +1,12 @@
 package firststeps
 
-<<<<<<< Updated upstream
-import firststeps.exercicio1.VerificarNumero
-=======
 import firststeps.exerciciosProgressivos.CalculadoraDeMacas
 import firststeps.exerciciosProgressivos.VerificarNumero
 import firststeps.exerciciosProgressivos.CalculadoraDeIdade
 import firststeps.exerciciosProgressivos.VerificarMaiorNumero
->>>>>>> Stashed changes
 
-fun main(args: Array<String>) {
-    val verificador = VerificarNumero()
-    verificador.verificarPositivoOuNegativo(5)
+class Main {
 
-<<<<<<< Updated upstream
-    println("meu primeiro execicio!")
-=======
     fun testeVerificaNumero() {
         val verificarNumero = VerificarNumero()
         // Testando com um número positivo
@@ -62,5 +53,4 @@ fun main() {
     // Chama o método de teste
     //teste.testeVerificaNumero()
     teste.testeVerificarMaiorNumero()
->>>>>>> Stashed changes
 }

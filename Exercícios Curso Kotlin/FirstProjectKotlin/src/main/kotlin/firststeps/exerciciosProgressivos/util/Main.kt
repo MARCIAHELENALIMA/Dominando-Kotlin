@@ -1,9 +1,9 @@
-package firststeps
+package firststeps.exerciciosProgressivos.util
 
-import firststeps.exerciciosProgressivos.CalculadoraDeMacas
-import firststeps.exerciciosProgressivos.VerificarNumero
-import firststeps.exerciciosProgressivos.CalculadoraDeIdade
-import firststeps.exerciciosProgressivos.VerificarMaiorNumero
+import firststeps.exerciciosProgressivos.classes.CalculadoraDeMacas
+import firststeps.exerciciosProgressivos.classes.VerificarNumero
+import firststeps.exerciciosProgressivos.classes.CalculadoraDeIdade
+import firststeps.exerciciosProgressivos.classes.VerificarMaiorNumero
 
 class Main {
 

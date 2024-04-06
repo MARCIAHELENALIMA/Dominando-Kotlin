@@ -1,5 +1,5 @@
 /*
-Neste algoritmo, inicio pedindo três números distintos. Esses números serão usados para determinar
+Inicio pedindo três números distintos. Esses números serão usados para determinar
 qual deles é o maior.
 Solicito o primeiro número e o armazeno. Este número é o ponto de partida para a comparação.
 Depois peço o segundo número. Se este for maior que o primeiro, ele se torna o novo maior número.
@@ -10,7 +10,7 @@ um número é maior que o outro, ele é considerado o maior até que uma compara
 contrário. No final digo qual dos três números é o maior.
  */
 
-package firststeps.exerciciosProgressivos.novoteste
+package firststeps.exerciciosProgressivos.testesMain
 
 fun main() {
     println("Digite três números para comparar qual é o maior:")

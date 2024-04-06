@@ -12,7 +12,7 @@ se a quantidade atinge um certo limite, um preço mais baixo é aplicado, reflet
 volume. Isso incentiva a compra em maior quantidade, oferecendo um melhor preço por unidade.
  */
 
-package firststeps.exerciciosProgressivos.novoteste
+package firststeps.exerciciosProgressivos.testesMain
 
 fun main() {
     print("Digite a quantidade de maças: ")

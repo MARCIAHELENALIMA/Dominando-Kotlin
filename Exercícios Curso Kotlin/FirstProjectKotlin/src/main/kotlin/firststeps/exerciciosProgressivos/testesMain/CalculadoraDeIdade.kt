@@ -6,7 +6,7 @@ que utiliza anoNascimentoLido como argumento. A mensagem final exibe a idade cal
 A função calculaIdade aceita um parâmetro anoNascimento do tipo Int e retorna um Int. Ela calcula a idade
 subtraindo o ano de nascimento do ano atual, obtido através do método estático LocalDate.now().year.
 */
-package firststeps.exerciciosProgressivos.novoteste
+package firststeps.exerciciosProgressivos.testesMain
 
 import java.time.LocalDate
 

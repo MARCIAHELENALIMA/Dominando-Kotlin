@@ -59,4 +59,4 @@ Escolha uma opção:
 
 ## Contato
 
-Para dúvidas ou suporte, entre em contato pelo email: [marcia.javadeveloper.com](mailto:marcia.javadeveloper.com)
+Para dúvidas ou suporte, entre em contato pelo email: [marcia.javadeveloper@gmail.com](mailto:marcia.javadeveloper@gmail.com)

@@ -4,8 +4,8 @@
 
 ## Introdução
 
-Este é um programa simples desenvolvido em Kotlin que permite converter temperaturas de Celsius 
-para outras escalas (Kelvin, Fahrenheit, Réaumur, Rankine) e analisar um conjunto de dados contendo 
+Este é um programa simples desenvolvido em Kotlin que permite converter temperaturas de Celsius
+para outras escalas (Kelvin, Fahrenheit, Réaumur, Rankine) e analisar um conjunto de dados contendo
 altura e sexo de 10 pessoas.
 
 ## Requisitos
@@ -17,42 +17,44 @@ altura e sexo de 10 pessoas.
 
 1. Abra o terminal ou linha de comando.
 2. Navegue até o diretório onde o arquivo do programa está salvo.
-3. Execute o comando para rodar o programa. Por exemplo: `kotlin MeuPrograma.kt`.
+3. Execute o comando para rodar o programa. 
 
 ## Interagindo com o programa
 
-- Ao executar o programa, você verá instruções no console pedindo para inserir a temperatura em Celsius.
-- Digite o valor da temperatura e pressione Enter.
-- O programa exibirá a temperatura convertida em Kelvin, Fahrenheit, Réaumur e Rankine.
-- Em seguida, o programa pedirá que você insira os dados de altura e sexo de 10 pessoas.
-- Após inserir todos os dados, o programa fornecerá a maior e a menor altura, a média de 
-  altura dos homens e o número de mulheres.
+- Ao executar o programa, você verá instruções no console pedindo para escolher uma opção.
+- Escolha a opção desejada digitando o número correspondente e pressionando Enter.
+- Para a opção 1, o programa solicitará a temperatura em Celsius e exibirá a conversão para outras escalas.
+- Para a opção 2, o programa realizará a análise de altura com os dados prévios e exibirá os resultados.
 
 ## Exemplos de entrada/saída
 
 ### Conversão de temperatura:
-Digite a temperatura em Celsius: 25
-Saída esperada:
-Fahrenheit: 77.0
-Kelvin: 298.15
-Réaumur: 20.0
-Rankine: 536.67
+Escolha uma opção:
+1. Converter temperatura
+2. Realizar análise de altura
+   Opção: 1
+   Digite a temperatura em Celsius: 25
+   Saída esperada:
+   Fahrenheit: 77.0
+   Kelvin: 298.15
+   Réaumur: 20.0
+   Rankine: 536.67
 
 ### Análise de altura:
-Insira a altura e o sexo (M/F), separados por espaço, e pressione Enter:
-1.80 M
-1.65 F
-(repetir até completar 10 entradas)
-Saída esperada:
-Maior altura: 1.90
-Menor altura: 1.50
-Média de altura dos homens: 1.75
-Número de mulheres: 5
+Escolha uma opção:
+1. Converter temperatura
+2. Realizar análise de altura
+   Opção: 2
+   Resultados da análise de altura:
+   Número de mulheres: 5
+   Maior altura: 1.90
+   Menor altura: 1.50
+   Média de altura dos homens: 1.75
 
 ## Dicas e Solução de Problemas
 
-- Certifique-se de inserir os dados corretamente, seguindo o formato especificado.
-- Se encontrar algum erro ou comportamento inesperado, verifique se os dados estão sendo inseridos 
+- Certifique-se de escolher a opção correta conforme o que deseja fazer no programa.
+- Se encontrar algum erro ou comportamento inesperado, verifique se os dados estão sendo inseridos
   corretamente e se o programa está sendo executado conforme descrito nas instruções.
 
 ## Contato
